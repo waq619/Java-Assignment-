@@ -1,0 +1,7 @@
+move 100 100
+colour 32 78 92
+circle 150 150
+fillrect 300 100
+triangle 600
+line 300 300
+filltriangle 200
